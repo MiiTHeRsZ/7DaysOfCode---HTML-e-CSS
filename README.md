@@ -16,4 +16,8 @@
 
 ## Detalhes do projeto
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+O design do projeto foi construído no Figma, e eu tive como desafio reproduzir esse layout em código, utilizando as tecnologias HTML (linguagem de marcação) e CSS (linguagem de estilos), praticando meus conhecimentos sobre.
+
+Nesse repositório contém o código final que eu desenvolvi, separado por "branches", onde cada branch contém o código do respectivo dia.
+
+Por favor, note que ao longo do desenvolvimento eu fiz várias alterações no código. Por exemplo, o código do dia 01 (correspondente ao cabeçalho) pode não ser o mesmo código da branch que contém o código completo (main), pois eu precisei fazer alguns ajustes no código.
